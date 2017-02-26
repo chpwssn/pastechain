@@ -1,0 +1,15 @@
+{
+  "name": "chip/pastechain-php",
+  "description": "A distributed blockchain-based pastebin",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Chip Wasson",
+      "email": "chip@wasson.io"
+    }
+  ],
+  "require": {
+    "kunstmaan/libphp-multichain": "v1.1.0"
+  }
+}

@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteRule ^save/?$ save.php [L]
+RewriteRule ^([a-zA-Z0-9]+)$ view.php?key=$1 [L]
